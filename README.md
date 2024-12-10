@@ -2,7 +2,7 @@
 
 *A simple Ping Pong game built using Python and Pygame*  
 
-![Ping Pong Game]([https://ibb.co/RCvtdb4](https://ibb.co/RCvtdb4))
+!([https://ibb.co/RCvtdb4](https://ibb.co/RCvtdb4))
 
 ---
 
