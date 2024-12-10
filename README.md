@@ -15,10 +15,8 @@
 4. [How to Run the Game](#how-to-run-the-game)  
 5. [Installation](#installation)  
 6. [Project Structure](#project-structure)  
-7. [Dependencies](#dependencies)  
-8. [Future Features](#future-features)  
-9. [Credits](#credits)  
-10. [License](#license)  
+
+
 
 ---
 
