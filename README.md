@@ -13,8 +13,6 @@
 2. [Features](#features)  
 3. [Game Controls](#game-controls)  
 4. [How to Run the Game](#how-to-run-the-game)  
-5. [Installation](#installation)  
-6. [Project Structure](#project-structure)  
 
 
 
