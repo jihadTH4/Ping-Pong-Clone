@@ -3,7 +3,6 @@
 *A simple Ping Pong game built using Python and Pygame*  
 
 ![Game Screenshot](https://via.placeholder.com/800x400?text=Game+Screenshot)  
-> Replace the above link with an actual screenshot of your game.
 
 ---
 
