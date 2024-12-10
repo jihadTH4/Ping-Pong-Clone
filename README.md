@@ -2,7 +2,7 @@
 
 *A simple Ping Pong game built using Python and Pygame*  
 
-![Ping Pong Game](C:\Users\Jihad Thabit\Desktop\البرمجة\pygame projects by jihad\Ping Pong game\screenshots\Screenshot 2024-12-10 210326.png)
+![Ping Pong Game](screenshots\Screenshot 2024-12-10 210326.png)
 
 ---
 
