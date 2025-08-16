@@ -50,4 +50,5 @@ This is a **2-player Ping Pong game** implemented in Python using the Pygame lib
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/ping-pong-game.git
+   git clone https://github.com/jihadTH4/ping-pong-game.git
+
